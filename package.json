@@ -1,5 +1,6 @@
 {
   "name": "resources-client-ui",
+  "id": "resources-client",
   "version": "1.0.0",
   "description": "'资源库'",
   "main": "index.js",
